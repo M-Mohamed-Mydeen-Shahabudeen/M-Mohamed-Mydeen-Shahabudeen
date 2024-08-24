@@ -26,6 +26,6 @@
 
 ## Fun Fact
 - 📚 I completed my schooling at Time Matric Higher Secondary School in Aaraikulam, Tirunelveli.
-- 🎉 My friend's name is Uwais.
+
 
 Feel free to connect with me on GitHub and explore my projects. Let's collaborate and create something amazing together!
