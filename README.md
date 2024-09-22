@@ -41,3 +41,5 @@ Eager to contribute and learn in dynamic tech environments. <b>TechEnthusiast AI
 Francis Xavier engineering College,  Expected graduation year 2027
 
 </p>
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M-Mohamed-Mydeen-Shahabudeen &theme=radical)
