@@ -46,6 +46,12 @@
   </p>
 </div>
 
+# 📊 Top Languages
+
+<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 🚀 Skill Set
 
 <p align="center">
@@ -61,7 +67,7 @@
 </p>
 
 <p align= "justify">
-Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, and machine learning and Web development. 
+Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, machine learning, and web development. 
 Eager to contribute and learn in dynamic tech environments. <b>TechEnthusiast AI ML DataAnalysis</b>
 
 Francis Xavier Engineering College, Expected graduation year 2027
