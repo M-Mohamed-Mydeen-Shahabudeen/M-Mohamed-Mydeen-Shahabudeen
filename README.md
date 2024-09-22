@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
 </p>
 
-## 🚀 Skill Set
+ 🚀 Skill Set
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner+%7C+Machine+Learning" alt="Animated Text">
@@ -27,11 +27,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats">
-</p>
-# 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mohamed-Mydeen-Shahabudeen&theme=radical" alt="GitHub streak stats">
-</p>
+
+>
