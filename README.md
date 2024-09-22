@@ -1,4 +1,7 @@
-#👋 Hello, I'm Mohamed Mydeen Shahabudeen M
+# 👋 Hello, I'm 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mohamed+Mydeen+Shahabudeen+M" alt="Animated Name">
+</p>
 
 ## 🔧 Skills & Tools
 
@@ -11,19 +14,8 @@
   <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
 </p>
 
+# 🚀 Skill Set
 
-
-
-
-<pre>
-
-
-
-
-
-
-
-# 🚀  Skill Set
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner+%7C+Machine+Learning" alt="Animated Text">
 </p>
@@ -35,4 +27,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
-</pre>
