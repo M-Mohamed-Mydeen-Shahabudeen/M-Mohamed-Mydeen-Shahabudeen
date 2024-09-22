@@ -1,83 +1,108 @@
-# 👋 Hello, I'm 
+<!-- Introduction Section -->
+# 👋 Hello, I'm Mohamed Mydeen Shahabudeen M
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mohamed+Mydeen+Shahabudeen+M" alt="Animated Name">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast+%7C+ML+Learner" alt="Typing SVG">
 </p>
 
-# 🔧 Skills
+<p align="center">
+  Passionate B.Tech Computer Science and Business Systems student with a solid foundation in C, Python, and web development. Enthusiastic about technology-driven fields like data analysis, artificial intelligence, and machine learning. Eager to apply my skills and contribute to impactful projects. <b>TechEnthusiast | AI | ML | DataAnalysis</b>
+</p>
+
+<p align="center">
+  Francis Xavier Engineering College | Expected Graduation: 2027
+</p>
+
+---
+
+<!-- Skills Section -->
+## 🔧 Skills
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=flat" />
   </p>
 </div>
 
-# 🛠️ Tools
+---
+
+<!-- Tools Section -->
+## 🛠️ Tools
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-MS Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
-    <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  </p>
-  <p style="margin: 10px;">
+  <p>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
   </p>
 </div>
 
-# 📊 Top Languages
+---
+
+<!-- Top Languages Section -->
+## 📊 Top Languages
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-# 📈 GitHub Stats
+---
+
+<!-- GitHub Stats Section -->
+## 📈 GitHub Stats
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-🚀 Skill Set
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- Projects Section -->
+## 🚀 Projects
+
+- **Next-Gen Farming: AI and Sensor Technology for Smart Irrigation Management**  
+  Description: Using water testing sensors, weather sensors, and AI to optimize agricultural irrigation.  
+  [Link to project or details]()
+
+- **GreenBite: Organic Food Delivery Service**  
+  Description: Designed the landing page using HTML and CSS for a fictional organic food delivery service.  
+  [Link to project or details]()
+
+---
+
+<!-- Education Section -->
+## 🎓 Education
+
+**B.Tech Computer Science and Business Systems**  
+Francis Xavier Engineering College, Vannerapettai  
+Expected Graduation: 2027  
+
+---
+
+<!-- Contact Section -->
+## 📫 Contact Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast" alt="Animated Text">
+  <a href="https://github.com/m-mohamed-mydeen-shahabudeen" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedmydeen.ug.23.cb@francisxavier.ac.in">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohamed_ukasha/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
-
-<p align= "justify">
-Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, machine learning, and web development. 
-Eager to contribute and learn in dynamic tech environments. <b>TechEnthusiast AI ML DataAnalysis</b>
-
-Francis Xavier Engineering College, Expected graduation year 2027
-
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&" alt="m-mohamed-mydeen-shahabudeen" /></p>
