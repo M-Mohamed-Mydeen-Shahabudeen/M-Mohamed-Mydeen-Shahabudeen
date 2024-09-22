@@ -31,15 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
-## 🔥 GitHub Streak Stats
+# 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Mohamed-Mydeen-Shahabudeen&theme=radical" alt="GitHub streak stats">
-</p>
-## 💻 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?M-Mohamed-Mydeen-Shahabudeen&layout=compact&theme=radical" alt="Top Languages">
-</p>
-## 📈 Contributions Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?M-Mohamed-Mydeen-Shahabudeen&theme=react-dark" alt="GitHub Contribution Graph">
 </p>
