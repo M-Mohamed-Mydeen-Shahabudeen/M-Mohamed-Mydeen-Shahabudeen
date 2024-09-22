@@ -18,6 +18,7 @@
 <br>
   <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
 </p>
+<hr>
 
  🚀 Skill Set
 
