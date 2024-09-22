@@ -98,7 +98,7 @@ Expected Graduation: 2027
   <a href="https://github.com/m-mohamed-mydeen-shahabudeen" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+  <a href="http://www.linkedin.com/in/mohamed-mydeen-shahabudeen" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedmydeen.ug.23.cb@francisxavier.ac.in">
