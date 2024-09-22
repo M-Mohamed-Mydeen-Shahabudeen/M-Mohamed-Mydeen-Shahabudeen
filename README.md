@@ -77,7 +77,7 @@
 
 - Face Detection and Authentication System Using OpenCV
 
-<p align="justify">This reflects the key functionalities of your project—authentication through a password check and real-time face detection using OpenCV.</p>
+<p align="justify"> This reflects the key functionalities of your project—authentication through a password check and real-time face detection using OpenCV.</p>
   [Link to project or details]()
 
 ---
