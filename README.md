@@ -3,7 +3,7 @@
 I am passionate about **AI development**, **web development**, and **machine learning**.
 
 ## 🚀 Skills
-- C++, Python, Java, SQL
+- C, Python, Java, SQL
 - Frontend: HTML, CSS, JavaScript
 - Tools: VS Code, Tableau, GitHub
 
