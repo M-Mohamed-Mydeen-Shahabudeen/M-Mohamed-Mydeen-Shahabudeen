@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 # 👋 Hello, I'm Mohamed Mydeen Shahabudeen M
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast+%7C+ML+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG">
 </p>
 
 <p align="center">
