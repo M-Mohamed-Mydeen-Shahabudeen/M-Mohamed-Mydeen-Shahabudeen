@@ -52,6 +52,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+# 📈 GitHub Stats
+
+<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
 🚀 Skill Set
 
 <p align="center">
