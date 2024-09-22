@@ -19,12 +19,12 @@
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
   <p>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=flat" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&size=large" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=flat" style="border-radius: 12px;" width="70" height="70"/>
   </p>
 </div>
 
@@ -35,11 +35,11 @@
 
 <div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
   <p>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
+    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
   </p>
 </div>
 
@@ -70,21 +70,11 @@
 <!-- Projects Section -->
 ## 🚀 Projects
 
-- **<p align="justify">Music World** is a frontend-based web application designed to explore various music genres. I developed a clean, responsive landing page using HTML and CSS, showcasing categories like "Chill Hits" and city-specific sounds from places like Bangalore and Chennai. The app includes a search feature for easy track discovery and integrates social media links for user engagement. Built with HTML5 and CSS3 in VS Code, this project strengthened my web design and responsive layout skills.</p>
- 
-<b>Link to project : </b>
-  [https://lnkd.in/gagaSCK4]()
-
- - **<p align="justify">Face Detection and Authentication System Using OpenCV**
-
-This reflects the key functionalities of your project—authentication through a password check and real-time face detection using OpenCV.</p>
-
-<b>Link to project : </b>
+- **Next-Gen Farming: AI and Sensor Technology for Smart Irrigation Management**  
+  <p style="border-bottom: 1px solid #36BCF7;">Using water testing sensors, weather sensors, and AI to optimize agricultural irrigation.</p>
 
 - **GreenBite: Organic Food Delivery Service**  
-  Description: Designed the landing page using HTML and CSS for a fictional organic food delivery service. 
-<b>Link to project : </b> 
-  [Link to project or details]()
+  <p style="border-bottom: 1px solid #36BCF7;">Designed the landing page using HTML and CSS for a fictional organic food delivery service.</p>
 
 ---
 
@@ -104,10 +94,10 @@ Expected Graduation: 2027
   <a href="https://github.com/m-mohamed-mydeen-shahabudeen" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/M-Mohamed-Mydeen-Shahabudeen" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto: mmohamedukasha83@gmail.com">
+  <a href="mailto:mohamedmydeen.ug.23.cb@francisxavier.ac.in">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamed_ukasha/" target="_blank">
