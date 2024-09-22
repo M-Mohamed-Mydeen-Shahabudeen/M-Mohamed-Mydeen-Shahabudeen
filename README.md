@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohamed Mydeen Shahabudeen M
+#👋 Hello, I'm Mohamed Mydeen Shahabudeen M
 
 ## 🔧 Skills & Tools
 
@@ -11,10 +11,11 @@
   <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
 </p>
 
-## 🚀 Animated Skill Set
+# 🚀  Skill Set
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner+%7C+Machine+Learning" alt="Animated Text">
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -27,10 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mydeen-Shahabudeen-M &theme=radical" alt="GitHub streak stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mydeen-Shahabudeen-M&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
 [![HTML Badge](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
