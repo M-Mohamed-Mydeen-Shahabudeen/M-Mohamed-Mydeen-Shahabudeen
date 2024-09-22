@@ -101,7 +101,7 @@ Expected Graduation: 2027
   <a href="http://www.linkedin.com/in/mohamed-mydeen-shahabudeen" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohamedmydeen.ug.23.cb@francisxavier.ac.in">
+  <a href="mailto: mmohamedukasha83@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamed_ukasha/" target="_blank">
