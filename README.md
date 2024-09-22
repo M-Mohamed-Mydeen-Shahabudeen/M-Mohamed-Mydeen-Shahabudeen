@@ -1,45 +1,15 @@
-# 👋 Hello, I'm 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Mohamed+Mydeen+Shahabudeen+M" alt="Animated Name">
+<h1 align="center">Hi 👋, I'm Mohamed Mydeen Shahabudeen M</h1>
+<h3 align="center">passionate about Web development,Ai Enthusiastic and software development</h3>
+
+- 🌱 I’m currently learning **Data structure, JavaScript**
+
+- 📫 How to reach me **mmohamedukasha83@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-# 🔧 Skills & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<br>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/-Machine Learning-ff6f00?style=flat" />
-</p>
-
-
- 🚀 Skill Set
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+AI+Enthusiast" alt="Animated Text">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
-
-<p align= "justify">
-Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, and machine learning and Web development. 
-Eager to contribute and learn in dynamic tech environments. <b>TechEnthusiast AI ML DataAnalysis</b>
-
-Francis Xavier engineering College,  Expected graduation year 2027
-
-</p>
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mydeen-Shahabudeen&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&" alt="m-mohamed-mydeen-shahabudeen" /></p>
