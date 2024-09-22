@@ -18,4 +18,5 @@ I am passionate about **AI development**, **web development**, and **machine lea
 - Email: mohamedmydeen.ug.23.cb@francisxavier.ac.in
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer Workspace Stock Image](sandbox:/mnt/data/A_stock_image_showcasing_a_developer_workspace_wit.png)
+
