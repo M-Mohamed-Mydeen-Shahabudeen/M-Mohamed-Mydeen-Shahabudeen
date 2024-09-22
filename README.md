@@ -42,6 +42,6 @@ Francis Xavier engineering College,  Expected graduation year 2027
 
 </p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mydeen-Shahabudeen&theme=radical)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&" alt="m-mohamed-mydeen-shahabudeen" /></p>
