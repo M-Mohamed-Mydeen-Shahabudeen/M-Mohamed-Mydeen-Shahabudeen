@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
-<p align= justify>
+<p align= "justify">
 <b>Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, and machine learning and Web development. 
 Eager to contribute and learn in dynamic tech environments. <span style="color:"red;">TechEnthusiast AI ML DataAnalysis</span>
 
