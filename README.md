@@ -35,9 +35,9 @@
 </p>
 
 <p align= "justify">
-<b>Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, and machine learning and Web development. 
-Eager to contribute and learn in dynamic tech environments. <span style="colour:"red";>TechEnthusiast AI ML DataAnalysis</span>
+Passionate B.Tech Computer Science and Business Systems student with a strong foundation in C and Python. Excited about technology-oriented fields such as data analysis, artificial intelligence, and machine learning and Web development. 
+Eager to contribute and learn in dynamic tech environments. <b>TechEnthusiast AI ML DataAnalysis</b>
 
-Francis Xavier engineering College,  Expected graduation year 2027</b>
+Francis Xavier engineering College,  Expected graduation year 2027
 
 </p>
