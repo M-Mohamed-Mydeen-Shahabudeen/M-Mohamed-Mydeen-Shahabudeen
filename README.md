@@ -27,3 +27,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats">
+</p>
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak stats">
+</p>
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages">
+</p>
+## 📈 Contributions Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark" alt="GitHub Contribution Graph">
+</p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mydeen-Shahabudeen&show_icons=true&theme=radical" alt="GitHub stats">
+</p>
+
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mydeen-Shahabudeen&theme=radical" alt="GitHub streak stats">
+</p>
+
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mydeen-Shahabudeen&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+## 📈 Contributions Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mohamed-Mydeen-Shahabudeen&theme=react-dark" alt="GitHub Contribution Graph">
+</p>
+
+
