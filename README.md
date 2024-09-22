@@ -11,12 +11,12 @@ I am passionate about **AI development**, **web development**, and **machine lea
 
 ## 🌱 Currently Learning
 - Machine Learning
-- Data Structures in C++
-- SEO
+- Data Structures in C
+- JavaScript 
 
 ## 📫 Reach me at
-- Email: mohamedmydeen.ug.23.cb@francisxavier.ac.in
+- Email: mmohamedukasha83@gmail.com 
+- 9344990461
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 
-![Developer Workspace Stock Image](sandbox:/mnt/dataA_stock_image_showcasing_a_developer_workspace_wit.png)
 
