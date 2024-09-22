@@ -70,7 +70,7 @@
 <!-- Projects Section -->
 ## 🚀 Projects
 
-<p align="justify">Music World** is a frontend-based web application designed to explore various music genres. I developed a clean, responsive landing page using HTML and CSS, showcasing categories like "Chill Hits" and city-specific sounds from places like Bangalore and Chennai. The app includes a search feature for easy track discovery and integrates social media links for user engagement. Built with HTML5 and CSS3 in VS Code, this project strengthened my web design and responsive layout skills.<\p><br>
+<p align="justify">-**Music World: is a frontend-based web application designed to explore various music genres. I developed a clean, responsive landing page using HTML and CSS, showcasing categories like "Chill Hits" and city-specific sounds from places like Bangalore and Chennai. The app includes a search feature for easy track discovery and integrates social media links for user engagement. Built with HTML5 and CSS3 in VS Code, this project strengthened my web design and responsive layout skills.<\p><br>
   [Link to project or details]()
 
 - **GreenBite: Organic Food Delivery Service**  
