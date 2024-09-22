@@ -71,10 +71,19 @@
 ## 🚀 Projects
 
 - **<p align="justify">Music World** is a frontend-based web application designed to explore various music genres. I developed a clean, responsive landing page using HTML and CSS, showcasing categories like "Chill Hits" and city-specific sounds from places like Bangalore and Chennai. The app includes a search feature for easy track discovery and integrates social media links for user engagement. Built with HTML5 and CSS3 in VS Code, this project strengthened my web design and responsive layout skills.</p>
+ 
+<b>Link to project</b>
   [https://lnkd.in/gagaSCK4]()
 
+**"Face Detection and Authentication System Using OpenCV"**
+
+This reflects the key functionalities of your project—authentication through a password check and real-time face detection using OpenCV.
+
+<b>Link to project</b>
+
 - **GreenBite: Organic Food Delivery Service**  
-  Description: Designed the landing page using HTML and CSS for a fictional organic food delivery service.  
+  Description: Designed the landing page using HTML and CSS for a fictional organic food delivery service. 
+<b>Link to project</b> 
   [Link to project or details]()
 
 ---
