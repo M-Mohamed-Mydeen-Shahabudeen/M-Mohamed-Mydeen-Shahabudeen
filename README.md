@@ -17,14 +17,14 @@
 <!-- Skills Section -->
 ## 🔧 Skills
 
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+<div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&size=large" style="border-radius: 12px;" width="70" height="70"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="border-radius: 12px;" width="70" height="70"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
-    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=flat" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=for-the-badge" style="border-radius: 12px;" />
   </p>
 </div>
 
@@ -33,13 +33,13 @@
 <!-- Tools Section -->
 ## 🛠️ Tools
 
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+<div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
-    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="border-radius: 12px;" width="70" height="70"/> 
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" style="border-radius: 12px;" width="70" height="70"/>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 12px;" /> 
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" style="border-radius: 12px;" /> 
+    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" style="border-radius: 12px;" /> 
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius: 12px;" /> 
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="border-radius: 12px;" />
   </p>
 </div>
 
@@ -48,7 +48,7 @@
 <!-- Top Languages Section -->
 ## 📊 Top Languages
 
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -57,7 +57,7 @@
 <!-- GitHub Stats Section -->
 ## 📈 GitHub Stats
 
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
@@ -71,10 +71,10 @@
 ## 🚀 Projects
 
 - **Next-Gen Farming: AI and Sensor Technology for Smart Irrigation Management**  
-  <p style="border-bottom: 1px solid #36BCF7;">Using water testing sensors, weather sensors, and AI to optimize agricultural irrigation.</p>
+  <div style="border-bottom: 1px solid #36BCF7;">Using water testing sensors, weather sensors, and AI to optimize agricultural irrigation.</div>
 
 - **GreenBite: Organic Food Delivery Service**  
-  <p style="border-bottom: 1px solid #36BCF7;">Designed the landing page using HTML and CSS for a fictional organic food delivery service.</p>
+  <div style="border-bottom: 1px solid #36BCF7;">Designed the landing page using HTML and CSS for a fictional organic food delivery service.</div>
 
 ---
 
@@ -92,15 +92,15 @@ Expected Graduation: 2027
 
 <p align="center">
   <a href="https://github.com/m-mohamed-mydeen-shahabudeen" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedmydeen.ug.23.cb@francisxavier.ac.in">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohamed_ukasha/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
