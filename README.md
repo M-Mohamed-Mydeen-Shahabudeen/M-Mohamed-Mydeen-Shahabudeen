@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate B.Tech Computer Science and Business Systems student with a solid foundation in C, Python, and web development. Enthusiastic about technology-driven fields like data analysis, artificial intelligence, and machine learning. Eager to apply my skills and contribute to impactful projects. <b>TechEnthusiast | AI | ML | DataAnalysis</b>
+  Passionate B.Tech Computer Science and Business Systems student with a solid foundation in C, Python, and web development. Enthusiastic about technology-driven fields like data analysis, artificial intelligence, and machine learning. Eager to apply my skills and contribute to impactful projects. <b>TechEnthusiast | AI | ML |DataAnalysis</b>
 </p>
 
 <p align="center">
