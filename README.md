@@ -57,13 +57,16 @@ Real-time face detection and authentication system leveraging OpenCV for secure 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<a href="https://github.com/m-mohamed-mydeen-shahabudeen">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
+<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=m-mohamed-mydeen-shahabudeen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 </div>
 
 ---
