@@ -1,110 +1,96 @@
-<!-- Introduction Section -->
-# 👋 Hello, I'm Mohamed Mydeen Shahabudeen M
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+%7C+Software+Developer|" alt="Typing SVG">
-</p>
-
-<p align="center">
-  Passionate B.Tech Computer Science and Business Systems student with a solid foundation in C, Python, and web development. Enthusiastic about technology-driven fields like data analysis, artificial intelligence, and machine learning. Eager to apply my skills and contribute to impactful projects. <b>TechEnthusiast | AI | ML |DataAnalysis</b>
-</p>
-
-<p align="center">
-  Francis Xavier Engineering College | Expected Graduation: 2027
-</p>
-
----
-
-<!-- Skills Section -->
-## 🔧 Skills
-
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <p>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Machine%20Learning-ff6f00?style=flat" />
-  </p>
-</div>
-
----
-
-<!-- Tools Section -->
-## 🛠️ Tools
-
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <p>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  </p>
-</div>
-
----
-
-<!-- Top Languages Section -->
-## 📊 Top Languages
-
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<!-- GitHub Stats Section -->
-## 📈 GitHub Stats
-
-<div align="center" style="border: 2px solid #36BCF7; padding: 20px; display: inline-block; width: 80%; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+# Mohamed Mydeen Shahabudeen M
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&theme=radical" alt="GitHub Streak" />
+  
+### Computer Science & Business Systems Student | Web Developer | AI Enthusiast
+
+*Building innovative solutions at the intersection of technology and business*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamed-mydeen-shahabudeen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmohamedukasha83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-mohamed-mydeen-shahabudeen)
+
 </div>
 
 ---
 
-<!-- Projects Section -->
-## 🚀 Projects
+## 👨‍💻 About Me
 
-- **Music World** :<p align="justify"> is a frontend-based web application designed to explore various music genres. I developed a clean, responsive landing page using HTML and CSS, showcasing categories like "Chill Hits" and city-specific sounds from places like Bangalore and Chennai. The app includes a search feature for easy track discovery and integrates social media links for user engagement. Built with HTML5 and CSS3 in VS Code, this project strengthened my web design and responsive layout skills.</p>
- - Link to project : [https://lnkd.in/gagaSCK4]()
-<hr style= width="20px">
+Currently pursuing B.Tech in Computer Science and Business Systems at Francis Xavier Engineering College (Class of 2027). I'm passionate about creating impactful web applications and exploring the realms of artificial intelligence and data analysis. My approach combines technical expertise with business acumen to deliver solutions that matter.
 
-
-- Face Detection and Authentication System Using OpenCV
-
-<p align="justify"> This reflects the key functionalities of your project—authentication through a password check and real-time face detection using OpenCV.</p>
-  [Link to project or details]()
+**Focus Areas:** Web Development • Machine Learning • Data Analysis • AI Applications
 
 ---
 
-<!-- Education Section -->
-## 🎓 Education
+## 🛠️ Technical Stack
 
-**B.Tech Computer Science and Business Systems**  
-Francis Xavier Engineering College, Vannerapettai  
-Expected Graduation: 2027  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Technologies**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
-<!-- Contact Section -->
-## 📫 Contact Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/m-mohamed-mydeen-shahabudeen" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/mohamed-mydeen-shahabudeen" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto: mmohamedukasha83@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/mohamed-mydeen-shahabudeen" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### 🎵 Music World
+A responsive web application exploring diverse music genres with an intuitive interface. Features include genre categorization, city-specific playlists, and seamless track discovery functionality.
+
+**Tech Stack:** HTML5, CSS3  
+**[View Project →](https://lnkd.in/gagaSCK4)**
+
+### 🔐 Face Detection & Authentication System
+Real-time face detection and authentication system leveraging OpenCV for secure access control with password verification.
+
+**Tech Stack:** Python, OpenCV
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-mohamed-mydeen-shahabudeen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mohamed-mydeen-shahabudeen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-mohamed-mydeen-shahabudeen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Deepening expertise in Machine Learning algorithms and applications
+- Building full-stack web applications with modern frameworks
+- Exploring data-driven insights through analytics and visualization
+- Contributing to open-source projects
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on innovative projects or discussing technology trends. Feel free to reach out!
+
+<div align="center">
+
+**📧 mmohamedukasha83@gmail.com**
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-mohamed-mydeen-shahabudeen&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
